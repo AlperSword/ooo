@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go on Ana Sayfa</title>
+    <link>https://github.com/AlperSword/ooo.git/tags/go/</link>
+    <description>Recent content in go on Ana Sayfa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Mon, 12 Dec 2022 13:47:08 +0200</lastBuildDate><atom:link href="https://github.com/AlperSword/ooo.git/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gaz Kaçağı Kontrol Cihazı</title>
+      <link>https://github.com/AlperSword/ooo.git/blog/2022/12/12/go-is-for-lovers/</link>
+      <pubDate>Mon, 12 Dec 2022 13:47:08 +0200</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/blog/2022/12/12/go-is-for-lovers/</guid>
+      <description>Gaz Kaçak Dedektörü Ne İşe Yarar ? Gaz kaçak dedektörü , yanıcı bir gaza karşı koruma sağlayan bir cihazdır.Tehlikeli gazları alarm ile uyarır ve ekranda mevcut ölçüm değerini gösterir. Ölçüm değerleri kaydedilebilir ve bilgilendirme için bilgisayara aktarılabilir. Bunun için ek bir veri kaydedici seçeneği ve opsiyonel yazılım gerekir. Veri kaydedici fonksiyonu, 1 dakikalık bir ölçüm hızında toplam 900 saate kadar ölçüm yapılmasını sağlar. Cihaz, DIN ISO’ya göre kalibre edilebilir ve sertifikalandırılabilir.</description>
+    </item>
+    
+  </channel>
+</rss>

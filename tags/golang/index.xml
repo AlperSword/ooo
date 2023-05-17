@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>golang on Ana Sayfa</title>
+    <link>https://github.com/AlperSword/ooo.git/tags/golang/</link>
+    <description>Recent content in golang on Ana Sayfa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Mon, 12 Dec 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://github.com/AlperSword/ooo.git/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yolcu Bilgilendirme</title>
+      <link>https://github.com/AlperSword/ooo.git/blog/2022/12/12/categories-post/</link>
+      <pubDate>Mon, 12 Dec 2022 21:29:20 +0200</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/blog/2022/12/12/categories-post/</guid>
+      <description>Yolcu Bilgilendirme Sistemi Ne İşe Yarar ? Akıllı durak, toplu taşımacılık&amp;rsquo;da kullanılan modern bir teknoloji uygulamasıdır.
+Tren, tramvay, metro gibi toplu taşıma sistemlerinde de kullanılıyor. Yolcu Bilgilendirme Sistemleri ile , toplu taşıma araçlarının istasyon ve duraklara kaç dakika sonra varacağını, hareket saatlerini ve güzergah bilgilerini yaptığı güncellemeler ile yolculara iletiyor.
+İlk istasyonlardan hareket eden toplu taşıma araçlarının sefer tarifleri üzerinden kalan sürelerini hesaplayarak bu bilgileri diğer istasyonlardaki Yolcu Bilgilendirme Sistemi ekranlarına yansıtan sistem sayesinde, toplu taşıma kullanan yolcular hangi aracın nereye gittiğini veya kaç dakika sonra bulundukları istasyona varacağını bu ekranlardan görebilmektedirler.</description>
+    </item>
+    
+  </channel>
+</rss>

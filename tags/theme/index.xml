@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theme on Ana Sayfa</title>
+    <link>https://github.com/AlperSword/ooo.git/tags/theme/</link>
+    <description>Recent content in theme on Ana Sayfa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Mon, 12 Dec 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://github.com/AlperSword/ooo.git/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yolcu Bilgilendirme</title>
+      <link>https://github.com/AlperSword/ooo.git/blog/2022/12/12/categories-post/</link>
+      <pubDate>Mon, 12 Dec 2022 21:29:20 +0200</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/blog/2022/12/12/categories-post/</guid>
+      <description>Yolcu Bilgilendirme Sistemi Ne İşe Yarar ? Akıllı durak, toplu taşımacılık&amp;rsquo;da kullanılan modern bir teknoloji uygulamasıdır.
+Tren, tramvay, metro gibi toplu taşıma sistemlerinde de kullanılıyor. Yolcu Bilgilendirme Sistemleri ile , toplu taşıma araçlarının istasyon ve duraklara kaç dakika sonra varacağını, hareket saatlerini ve güzergah bilgilerini yaptığı güncellemeler ile yolculara iletiyor.
+İlk istasyonlardan hareket eden toplu taşıma araçlarının sefer tarifleri üzerinden kalan sürelerini hesaplayarak bu bilgileri diğer istasyonlardaki Yolcu Bilgilendirme Sistemi ekranlarına yansıtan sistem sayesinde, toplu taşıma kullanan yolcular hangi aracın nereye gittiğini veya kaç dakika sonra bulundukları istasyona varacağını bu ekranlardan görebilmektedirler.</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://github.com/AlperSword/ooo.git/blog/2015/06/24/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/blog/2015/06/24/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Por</title>
+      <link>https://github.com/AlperSword/ooo.git/blog/2015/06/24/linked-post/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/blog/2015/06/24/linked-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

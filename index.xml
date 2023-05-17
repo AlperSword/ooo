@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Sayfa</title>
+    <link>https://github.com/AlperSword/ooo.git/</link>
+    <description>Recent content on Ana Sayfa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Mon, 12 Dec 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://github.com/AlperSword/ooo.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yolcu Bilgilendirme</title>
+      <link>https://github.com/AlperSword/ooo.git/blog/2022/12/12/categories-post/</link>
+      <pubDate>Mon, 12 Dec 2022 21:29:20 +0200</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/blog/2022/12/12/categories-post/</guid>
+      <description>Yolcu Bilgilendirme Sistemi Ne İşe Yarar ? Akıllı durak, toplu taşımacılık&amp;rsquo;da kullanılan modern bir teknoloji uygulamasıdır.
+Tren, tramvay, metro gibi toplu taşıma sistemlerinde de kullanılıyor. Yolcu Bilgilendirme Sistemleri ile , toplu taşıma araçlarının istasyon ve duraklara kaç dakika sonra varacağını, hareket saatlerini ve güzergah bilgilerini yaptığı güncellemeler ile yolculara iletiyor.
+İlk istasyonlardan hareket eden toplu taşıma araçlarının sefer tarifleri üzerinden kalan sürelerini hesaplayarak bu bilgileri diğer istasyonlardaki Yolcu Bilgilendirme Sistemi ekranlarına yansıtan sistem sayesinde, toplu taşıma kullanan yolcular hangi aracın nereye gittiğini veya kaç dakika sonra bulundukları istasyona varacağını bu ekranlardan görebilmektedirler.</description>
+    </item>
+    
+    <item>
+      <title>Gaz Kaçağı Kontrol Cihazı</title>
+      <link>https://github.com/AlperSword/ooo.git/blog/2022/12/12/go-is-for-lovers/</link>
+      <pubDate>Mon, 12 Dec 2022 13:47:08 +0200</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/blog/2022/12/12/go-is-for-lovers/</guid>
+      <description>Gaz Kaçak Dedektörü Ne İşe Yarar ? Gaz kaçak dedektörü , yanıcı bir gaza karşı koruma sağlayan bir cihazdır.Tehlikeli gazları alarm ile uyarır ve ekranda mevcut ölçüm değerini gösterir. Ölçüm değerleri kaydedilebilir ve bilgilendirme için bilgisayara aktarılabilir. Bunun için ek bir veri kaydedici seçeneği ve opsiyonel yazılım gerekir. Veri kaydedici fonksiyonu, 1 dakikalık bir ölçüm hızında toplam 900 saate kadar ölçüm yapılmasını sağlar. Cihaz, DIN ISO’ya göre kalibre edilebilir ve sertifikalandırılabilir.</description>
+    </item>
+    
+    <item>
+      <title>LCT</title>
+      <link>https://github.com/AlperSword/ooo.git/blog/2022/12/12/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 12 Dec 2022 13:39:46 +0200</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/blog/2022/12/12/hugo-is-for-lovers/</guid>
+      <description>LCT </description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://github.com/AlperSword/ooo.git/blog/2015/06/24/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/blog/2015/06/24/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Por</title>
+      <link>https://github.com/AlperSword/ooo.git/blog/2015/06/24/linked-post/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/blog/2015/06/24/linked-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/AlperSword/ooo.git/post/ilkpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/post/ilkpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/AlperSword/ooo.git/products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/products/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hakkında</title>
+      <link>https://github.com/AlperSword/ooo.git/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/faq/</guid>
+      <description>Şirketimiz 1990 yılından beri ölçüm-denetim konularında faaliyet göstermektedir. Ürünlerimizin hemen hemen tamamı PC üzerinden denetlenebilir özelliktedir.16-Bit Mitsubishi (M32C/80, M16C/60, M16C/Tiny) ve 16/32-Bit Hitachi (H8/3048F) Mikro denetleyici tiplerini kullanmaktayız.</description>
+    </item>
+    
+    <item>
+      <title>İletişim</title>
+      <link>https://github.com/AlperSword/ooo.git/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>https://github.com/AlperSword/ooo.git/blog/1/01/01/migrate-from-jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/AlperSword/ooo.git/blog/1/01/01/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+  </channel>
+</rss>
